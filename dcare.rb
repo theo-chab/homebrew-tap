@@ -4,7 +4,7 @@
 class Dcare < Formula
   desc ""
   homepage ""
-  url "https://github.com/loki-gpu/dcare/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/loki-gpu/dcare/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "9e7b2774876fe7feb877b1043bd820230122f084d1be7fa880380f0793cc4203"
   license ""
 
